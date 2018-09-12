@@ -1,2 +1,2 @@
-# Nando_Chilli_Challenge
+# Nando Chilli Challenge
 ![Homework](Nando_Chilli_Challenge.JPG)
